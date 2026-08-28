@@ -1,0 +1,24 @@
+[
+  {
+    "apihost": "https://faas-blr1-8177d592.doserverless.co",
+    "namespace": "fn-ed6b8b8e-8465-4333-8b75-a53f9794367f",
+    "packageVersions": {},
+    "actionVersions": {
+      "PaperBot": {
+        "version": "0.0.4",
+        "digest": "98ab5e149453f04e6d232791455158de6a12cdfcbbfc9b87ce82d093a8d649cb"
+      }
+    }
+  },
+  {
+    "apihost": "https://faas-blr1-8177d592.doserverless.co",
+    "namespace": "fn-302dae81-e33e-42a9-8a4b-9e14777a2153",
+    "packageVersions": {},
+    "actionVersions": {
+      "PaperBot": {
+        "version": "0.0.6",
+        "digest": "3a98e3e36ebf47841d1144470df71f1cc3a19987f018161341d0d542ba29328a"
+      }
+    }
+  }
+]
